@@ -1,2 +1,1 @@
-# Evidence-For-LIDo
-This GitHub link is tailored to the personal statement for the LIDo programme and iCASE project
+This branch is tailored to the 'RNA Sequencing' section of the Personal Statement of the LIDo programme and iCASE project.
