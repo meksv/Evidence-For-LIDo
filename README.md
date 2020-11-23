@@ -1,2 +1,5 @@
-# Evidence-For-LIDo
-This GitHub link is tailored to the personal statement for the LIDo programme and iCASE project
+This branch is tailored to the 'Bioinformatics' section of the Personal Statement of the application for the LIDo programme and iCASE project.
+
+The 'Bioinformatics with BioPython' and 'Bioinformatics with Biotite' code examples are a part of my re-training in coding. Code was written by myself with guidance from a Udemy course and made unique by changing variables, code layout, graph formats and using different biological sequences for analysis.
+
+The other examples are from my bioinformatic courseworks I completed during my degree.
