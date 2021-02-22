@@ -1,5 +1,5 @@
 # Evidence-For-LIDo
-This GitHub link is tailored to the Personal statement for the LIDo programme and iCASE projec.
+This GitHub link is tailored to the Personal statement for the LIDo programme and iCASE project.
 
 Use the branches to navigate to examples specific to sections of the Personal Statement.
 
